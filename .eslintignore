@@ -4,4 +4,6 @@ coverage/
 .prettierrc.cjs
 .eslintrc.cjs
 commitlint.config.cjs
+postcss.config.cjs
+tailwind.config.cjs
 env.d.ts
